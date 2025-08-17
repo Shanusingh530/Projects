@@ -1,2 +1,2 @@
 # Projects
-this is to highlight all my projects
+This is to highlight all my projects
